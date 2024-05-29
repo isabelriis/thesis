@@ -1,6 +1,5 @@
 # Additions to the extremogram package written by Cribben. 
 
-
 # Functions right and left tail extremograms
 
 Extremogram1_Extended <- function(x, quant, maxlag, type, plotting = 0, cutoff = 0.3, start = 0) {
