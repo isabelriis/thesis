@@ -1,4 +1,3 @@
-# Test
 
 # Additions to the extremogram package written by Cribben. 
 
