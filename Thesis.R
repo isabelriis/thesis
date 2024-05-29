@@ -1,3 +1,5 @@
+# Test
+
 # Additions to the extremogram package written by Cribben. 
 
 # Functions right and left tail extremograms
